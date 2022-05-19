@@ -1,0 +1,18 @@
+{
+    "name": "wardana02/kt-switch",
+    "description": "Base on Switch Input bootstrap to metronic template CI",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wardana02\\KtSwitch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aaji Pratama",
+            "email": "wardana02@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
